@@ -19,8 +19,7 @@ const Contact = () => {
                 Contact Us
               </h2>
               <p className="text-sm">
-                If you would like to talk about your upcoming event, please feel
-                free to contact us anytime
+                If you would prefer to schedule a ride , let us know!
               </p>
             </div>
             <div>
